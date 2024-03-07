@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: org.example.Labyrinth
+Class-Path: h2-2.2.224.jar h2-2.2.224.jar
+
